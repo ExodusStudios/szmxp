@@ -1,4 +1,4 @@
-# mkxp-z (Forma Rojo)
+# mkxp-z (Forma Rojo) burh
 
 Bad experimentation bed for things I'm too much of a coward to push to the original, ignore this.
 
